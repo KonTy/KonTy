@@ -1,18 +1,36 @@
-# KONTY // NO TEMPLATES // PROFILE TEST V2
+# KONTY // BUILD HARD. SHIP HARDER.
 
-> I build operating systems, tools, and apps that ship.
->
-> Fast. Small. Useful. No fluff.
+No template. No fake polish. No fluff.
 
-## Live Work
+I build operating systems, dev tools, and user-facing products that are fast,
+lean, and actually usable.
 
-- OS: [smplOS](https://github.com/smpl-os/smplos), [smpl-apps](https://github.com/smpl-os/smpl-apps), [st-smpl](https://github.com/smpl-os/st-smpl)
-- Tooling: [nemo](https://github.com/KonTy/nemo), [codefoundry](https://github.com/KonTy/codefoundry), [microcore](https://github.com/microcore-app/microcore)
-- Interface: [grafium](https://github.com/KonTy/grafium), [xr-workspace](https://github.com/KonTy/xr-workspace), [bolide-shell](https://github.com/BolideOS/bolide-shell)
+## What You Are Looking At
 
-## Stack
+- Creator of [smplOS](https://github.com/smpl-os/smplos), a minimal Arch Linux distribution.
+- Full-stack builder across systems, native apps, toolchains, and interface layers.
+- Comfortable at every layer: low-level C/C++, Rust platform work, Kotlin/Dart app surfaces.
 
-`Rust` `C` `C++` `Dart` `Kotlin` `Python` `Go` `Arch Linux` `Wayland`
+## Active Fronts
+
+| Front | Repositories | Why It Matters |
+|---|---|---|
+| OS Platform | [smplOS](https://github.com/smpl-os/smplos), [smpl-apps](https://github.com/smpl-os/smpl-apps), [st-smpl](https://github.com/smpl-os/st-smpl) | Real Linux product direction with practical performance constraints |
+| Builder Tooling | [nemo](https://github.com/KonTy/nemo), [codefoundry](https://github.com/KonTy/codefoundry), [microcore](https://github.com/microcore-app/microcore) | Faster creation loops and less friction from idea to shipped artifact |
+| Interface RnD | [grafium](https://github.com/KonTy/grafium), [xr-workspace](https://github.com/KonTy/xr-workspace), [bolide-shell](https://github.com/BolideOS/bolide-shell) | Pushing interaction models beyond default desktop patterns |
+
+## Engineering Signature
+
+**Languages:** `Rust` `C` `C++` `Dart` `Kotlin` `Python` `Go`
+
+**Systems:** `Arch Linux` `Wayland` `custom shell workflows`
+
+**Operating Principle:**
+
+1. Build the smallest thing that can win.
+2. Measure it under real constraints.
+3. Strip anything not pulling weight.
+4. Ship.
 
 ## Contribution Pulse
 
@@ -24,4 +42,7 @@
   </picture>
 </div>
 
-Build -> Benchmark -> Strip -> Ship.
+## Final Word
+
+I do not optimize for noise. I optimize for shipped systems that survive contact
+with reality.
