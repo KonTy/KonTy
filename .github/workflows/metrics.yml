@@ -31,14 +31,3 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: dist
-
-  # Profile summary cards (stats, languages, contribution timeline)
-  summary-cards:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        with:
-          USERNAME: KonTy
-          BRANCH_NAME: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
