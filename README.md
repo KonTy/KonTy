@@ -1,51 +1,39 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0b1016,30:14202f,65:1f344d,100:2d4f73&text=KONTY&fontSize=74&fontColor=d7ecff&animation=fadeIn&fontAlignY=42&desc=Systems%20Engineer%20%E2%80%A2%20OS%20Builder%20%E2%80%A2%20Full-Stack%20Shipper&descAlignY=62&descSize=17" />
-
-</div>
-
-## SYSTEM DOSSIER
-
-```text
-NAME.............. KonTy
-PRIMARY MISSION... Build software that is fast, minimal, and production-real.
-FOCUS AREAS....... Operating systems, XR interfaces, cross-platform apps, tooling.
-SHIPPING MODEL.... Build -> benchmark -> strip -> ship.
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                              KONTY.SYSTEMS                                   ║
+║                        Systems Engineer. OS Architect.                        ║
+║                                                                              ║
+║  Shipping production software that is FAST, SMALL, and UNMEASURABLE.         ║
+║  Kernel. UI. Wearables. XR. When upstream won't merge my work, I fork it.    ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-I build products from kernel-adjacent internals up to polished UI. If a missing upstream feature blocks delivery, I fork and ship with a measurable target.
+---
 
-## CURRENT OPERATIONS
+## WHAT I BUILD
 
-| Zone | Active work | Why it matters |
+| **OS & Platform** | **Active Tooling** | **Interface Experiments** |
 |---|---|---|
-| OS | [smplOS](https://github.com/smpl-os/smplos), [smpl-apps](https://github.com/smpl-os/smpl-apps), [st-smpl](https://github.com/smpl-os/st-smpl) | Lean desktop stack with strict resource discipline |
-| App Platform | [nemo](https://github.com/KonTy/nemo), [codefoundry](https://github.com/KonTy/codefoundry), [microcore](https://github.com/microcore-app/microcore) | Native-feel developer and productivity tooling |
-| Interaction | [grafium](https://github.com/KonTy/grafium), [xr-workspace](https://github.com/KonTy/xr-workspace), [bolide-shell](https://github.com/BolideOS/bolide-shell) | Spatial and high-performance interface experiments |
+| [smplOS](https://github.com/smpl-os/smplos) — Arch Linux distro under 800MB RAM cold boot | [nemo](https://github.com/KonTy/nemo) — Developer workspace | [grafium](https://github.com/KonTy/grafium) — Visual design at speed |
+| [smpl-apps](https://github.com/smpl-os/smpl-apps) — Desktop app suite | [codefoundry](https://github.com/KonTy/codefoundry) — Code generation | [xr-workspace](https://github.com/KonTy/xr-workspace) — Spatial UI |
+| [st-smpl](https://github.com/smpl-os/st-smpl) — Terminal + compositor | [microcore](https://github.com/microcore-app/microcore) — Minimalist productivity | [bolide-shell](https://github.com/BolideOS/bolide-shell) — Shell rethought |
 
-## FEATURED BUILDS
+---
 
-### 01. smplOS
-Minimal Arch-based distro with aggressive startup and memory targets.
+## THE STACK
 
-### 02. SilentPulse
-Wearable and signal-focused app experiments with practical utility.
+**Languages that ship:**  
+`Rust` • `C` • `C++` • `Dart` • `Kotlin` • `Python` • `Go`
 
-### 03. CodeFoundry
-Tooling surface for generating and operating code assets quickly.
+**Systems I live in:**  
+`Arch Linux` • `Wayland` • `custom workflows`
 
-### 04. grafium
-Visual tooling direction focused on speed, clarity, and tight control loops.
+**How I work:**  
+Build → Benchmark → Strip → Ship. Repeat. No bloat. No excuses.
 
-## TECH SIGNATURE
+---
 
-```text
-Languages:   Rust, C, C++, Kotlin, Dart, Python, Go
-Systems:     Arch Linux, Wayland, custom shell workflows
-Approach:    Performance first, complexity last, practical shipping cadence
-```
-
-## CONTRIBUTION ACTIVITY
+## ACTIVITY LOG
 
 <div align="center">
   <picture>
@@ -55,8 +43,11 @@ Approach:    Performance first, complexity last, practical shipping cadence
   </picture>
 </div>
 
+---
+
 <div align="center">
 
-"If you do not need it, it does not belong in the build."
+**"Build what you need. Ship it faster. Repeat."**  
+*Not a template. Not a brand. This is how I work.*
 
 </div>
