@@ -1,39 +1,20 @@
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                              KONTY.SYSTEMS                                   ║
-║                        Systems Engineer. OS Architect.                        ║
-║                                                                              ║
-║  Shipping production software that is FAST, SMALL, and UNMEASURABLE.         ║
-║  Kernel. UI. Wearables. XR. When upstream won't merge my work, I fork it.    ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+# KONTY // NO TEMPLATES // PROFILE TEST V2
 
----
+> I build operating systems, tools, and apps that ship.
+>
+> Fast. Small. Useful. No fluff.
 
-## WHAT I BUILD
+## Live Work
 
-| **OS & Platform** | **Active Tooling** | **Interface Experiments** |
-|---|---|---|
-| [smplOS](https://github.com/smpl-os/smplos) — Arch Linux distro under 800MB RAM cold boot | [nemo](https://github.com/KonTy/nemo) — Developer workspace | [grafium](https://github.com/KonTy/grafium) — Visual design at speed |
-| [smpl-apps](https://github.com/smpl-os/smpl-apps) — Desktop app suite | [codefoundry](https://github.com/KonTy/codefoundry) — Code generation | [xr-workspace](https://github.com/KonTy/xr-workspace) — Spatial UI |
-| [st-smpl](https://github.com/smpl-os/st-smpl) — Terminal + compositor | [microcore](https://github.com/microcore-app/microcore) — Minimalist productivity | [bolide-shell](https://github.com/BolideOS/bolide-shell) — Shell rethought |
+- OS: [smplOS](https://github.com/smpl-os/smplos), [smpl-apps](https://github.com/smpl-os/smpl-apps), [st-smpl](https://github.com/smpl-os/st-smpl)
+- Tooling: [nemo](https://github.com/KonTy/nemo), [codefoundry](https://github.com/KonTy/codefoundry), [microcore](https://github.com/microcore-app/microcore)
+- Interface: [grafium](https://github.com/KonTy/grafium), [xr-workspace](https://github.com/KonTy/xr-workspace), [bolide-shell](https://github.com/BolideOS/bolide-shell)
 
----
+## Stack
 
-## THE STACK
+`Rust` `C` `C++` `Dart` `Kotlin` `Python` `Go` `Arch Linux` `Wayland`
 
-**Languages that ship:**  
-`Rust` • `C` • `C++` • `Dart` • `Kotlin` • `Python` • `Go`
-
-**Systems I live in:**  
-`Arch Linux` • `Wayland` • `custom workflows`
-
-**How I work:**  
-Build → Benchmark → Strip → Ship. Repeat. No bloat. No excuses.
-
----
-
-## ACTIVITY LOG
+## Contribution Pulse
 
 <div align="center">
   <picture>
@@ -43,11 +24,4 @@ Build → Benchmark → Strip → Ship. Repeat. No bloat. No excuses.
   </picture>
 </div>
 
----
-
-<div align="center">
-
-**"Build what you need. Ship it faster. Repeat."**  
-*Not a template. Not a brand. This is how I work.*
-
-</div>
+Build -> Benchmark -> Strip -> Ship.
