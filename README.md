@@ -1,23 +1,33 @@
-# KONTY // BUILD HARD. SHIP HARDER.
+# KonTy
 
-No template. No fake polish. No fluff.
+Systems engineer, OS builder, and app developer.
 
-I build operating systems, dev tools, and user-facing products that are fast,
-lean, and actually usable.
+I build software that ships under real constraints: fast, lean, and useful.
 
-## What You Are Looking At
+## What I Work On
 
-- Creator of [smplOS](https://github.com/smpl-os/smplos), a minimal Arch Linux distribution.
-- Full-stack builder across systems, native apps, toolchains, and interface layers.
-- Comfortable at every layer: low-level C/C++, Rust platform work, Kotlin/Dart app surfaces.
+- [smplOS](https://github.com/smpl-os/smplos), a minimal Arch Linux distribution.
+- [smpl-apps](https://github.com/smpl-os/smpl-apps) and [st-smpl](https://github.com/smpl-os/st-smpl) for the desktop stack around it.
+- [nemo](https://github.com/KonTy/nemo), [codefoundry](https://github.com/KonTy/codefoundry), and [microcore](https://github.com/microcore-app/microcore) for builder tooling.
+- [grafium](https://github.com/KonTy/grafium), [xr-workspace](https://github.com/KonTy/xr-workspace), and [bolide-shell](https://github.com/BolideOS/bolide-shell) for interface experiments.
 
-## Active Fronts
+## Activity
 
-| Front | Repositories | Why It Matters |
-|---|---|---|
-| OS Platform | [smplOS](https://github.com/smpl-os/smplos), [smpl-apps](https://github.com/smpl-os/smpl-apps), [st-smpl](https://github.com/smpl-os/st-smpl) | Real Linux product direction with practical performance constraints |
-| Builder Tooling | [nemo](https://github.com/KonTy/nemo), [codefoundry](https://github.com/KonTy/codefoundry), [microcore](https://github.com/microcore-app/microcore) | Faster creation loops and less friction from idea to shipped artifact |
-| Interface RnD | [grafium](https://github.com/KonTy/grafium), [xr-workspace](https://github.com/KonTy/xr-workspace), [bolide-shell](https://github.com/BolideOS/bolide-shell) | Pushing interaction models beyond default desktop patterns |
+<a href="https://github.com/KonTy">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KonTy&theme=github-dark&hide_border=true&custom_title=Recent%20activity%20%2F%20PRs%20%26%20check-ins&bg_color=0d1117&color=c9d1d9&line=7c3aed&point=a78bfa&area=true&area_color=7c3aed" alt="KonTy activity graph" />
+</a>
+
+<div align="center">
+
+<a href="https://github.com/KonTy">
+  <img src="https://streak-stats.demolab.com/?user=KonTy&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280" alt="KonTy streak stats" />
+</a>
+
+<a href="https://github.com/KonTy">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KonTy&theme=github_dark" alt="KonTy profile details" />
+</a>
+
+</div>
 
 ## Engineering Signature
 
@@ -25,12 +35,12 @@ lean, and actually usable.
 
 **Systems:** `Arch Linux` `Wayland` `custom shell workflows`
 
-**Operating Principle:**
+**Working Style:**
 
-1. Build the smallest thing that can win.
-2. Measure it under real constraints.
-3. Strip anything not pulling weight.
-4. Ship.
+- Build the smallest thing that can win.
+- Measure it under real constraints.
+- Strip anything not pulling weight.
+- Ship.
 
 ## Contribution Pulse
 
@@ -44,5 +54,4 @@ lean, and actually usable.
 
 ## Final Word
 
-I do not optimize for noise. I optimize for shipped systems that survive contact
-with reality.
+I optimize for shipped systems that survive contact with reality.
