@@ -9,7 +9,9 @@ I build software that ships under real constraints: fast, lean, and useful.
 - [smplOS](https://github.com/smpl-os/smplos), a minimal Arch Linux distribution.
 - [smpl-apps](https://github.com/smpl-os/smpl-apps) and [st-smpl](https://github.com/smpl-os/st-smpl) for the desktop stack around it.
 - [nemo](https://github.com/KonTy/nemo), [codefoundry](https://github.com/KonTy/codefoundry), and [microcore](https://github.com/microcore-app/microcore) for builder tooling.
-- [grafium](https://github.com/KonTy/grafium), [xr-workspace](https://github.com/KonTy/xr-workspace), and [bolide-shell](https://github.com/BolideOS/bolide-shell) for interface experiments.
+- [grafium](https://github.com/KonTy/grafium), a fast Logseq-like knowledge layer built for people who want the structure of a second brain without the drag.
+- [microcore](https://github.com/microcore-app/microcore), a comprehensive health platform for workouts, meals, macros, body stats, offline tracking, external sensors, and fitness watches running [BolideOS](https://github.com/BolideOS).
+- [xr-workspace](https://github.com/KonTy/xr-workspace) and [bolide-shell](https://github.com/BolideOS/bolide-shell) for interface experiments.
 
 ## Activity
 
